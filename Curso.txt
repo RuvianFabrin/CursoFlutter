@@ -20,3 +20,18 @@ se sim, pesquise como resolver
 #############################
 Configurando o visual studio code
 Extenções: Flutter, Dart, Terminal (Jun Han)
+#############################
+Criando o Primeiro Projeto
+Você precisa de um emulador ou celular para rodar o projeto
+
+flutter emulators , vai mostrar os emuladores disponiveis
+
+flutter emulators --lauch nome_do_emulador
+
+flutter create nome_projeto // para criar um projeto
+
+abra a pasta pelo visual studio code
+
+lib/main.dart //é o arquivo principal do projeto
+
+se já está configurado o celular ou emulador, abra o terminal no visual estudio e digite flutter run
