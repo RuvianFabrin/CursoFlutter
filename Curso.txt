@@ -16,3 +16,7 @@ digite flutter doctor no power shell
 
 Verifique se tem mensagem com a palavra Run
 se sim, pesquise como resolver
+
+#############################
+Configurando o visual studio code
+Extenções: Flutter, Dart, Terminal (Jun Han)
