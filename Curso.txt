@@ -1,1 +1,18 @@
 Instalando o Flutter
+Vá para https://flutter.dev/
+Clique em Get Start
+você pode baixar o zip ou fazer um clone com o Git
+Depois que baixou os arquivos, inclua o flutter nas variaveis de ambiente, no path
+Insira: C:\flutter\bin
+Verifique se a pasta existe
+
+no Power shell digite
+flutter e aguarde
+depois flutter doctor
+
+Instale o android studio
+
+digite flutter doctor no power shell
+
+Verifique se tem mensagem com a palavra Run
+se sim, pesquise como resolver
